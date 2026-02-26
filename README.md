@@ -126,6 +126,10 @@ Resposta (exemplo):
 }
 ```
 
+Print do Swagger:
+
+![Swagger](./assets/swagger.png)
+
 ---
 
 ### Decisões de Arquitetura
